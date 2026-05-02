@@ -23,7 +23,7 @@ const experiences = [
   {
     title: 'Frontend Developer',
     company: 'Codes Thinkers',
-    period: 'Aug 2024 – Dec 2024',
+    period: 'April 2024 – Aug 2024',
     location: 'Bahawalpur, Pakistan',
     type: 'Onsite',
     description: [
@@ -33,19 +33,19 @@ const experiences = [
       'Collaborated with team members to deliver project milestones.',
     ],
   },
-  {
-    title: 'Web Intern',
-    company: 'Freelance Bahawalpur',
-    period: 'Aug 2024 – Dec 2024',
-    location: 'Bahawalpur, Pakistan',
-    type: 'Onsite',
-    description: [
-      'Built custom websites for local clients in Bahawalpur.',
-      'Delivered responsive and modern UI designs based on client requirements.',
-      'Handled end-to-end development from design to deployment.',
-      'Maintained client communication and project updates.',
-    ],
-  },
+  // {
+  //   title: 'Web Intern',
+  //   company: 'Freelance Bahawalpur',
+  //   period: 'Aug 2024 – Dec 2024',
+  //   location: 'Bahawalpur, Pakistan',
+  //   type: 'Onsite',
+  //   description: [
+  //     'Built custom websites for local clients in Bahawalpur.',
+  //     'Delivered responsive and modern UI designs based on client requirements.',
+  //     'Handled end-to-end development from design to deployment.',
+  //     'Maintained client communication and project updates.',
+  //   ],
+  // },
 ];
 
   return (
